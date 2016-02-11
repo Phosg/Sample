@@ -1,2 +1,2 @@
-# Sample
-Code Samples
+# James McGinley
+Assorted Code Samples Repo
