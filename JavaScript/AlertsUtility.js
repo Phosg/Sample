@@ -1,3 +1,4 @@
+var Templates = Templates || {};
 Templates.header_alert_bar = [
     '<div class="icon"><!-- icon --></div>',
     '<div class="message"></div>',
